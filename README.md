@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @History-of-Death
-- 👀 I’m interested in Html, CSS,  JavaScript, C++, C#
-- 🌱 I’m currently learning All them 
-- 📫 How to reach me ...
+Hello Guys, I'm @History_of_Death. We'll I'm not a FullStack Developer but I know some programming languages, such as Python,C#,HTML and CSS,JavaScript and C++. I like Etchical Hacking too. 
